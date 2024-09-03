@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>¡Sorpresa, mi amor!</title>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Montserrat&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            padding: 20px;
+        }
+        h1 {
+            font-family: 'Dancing Script', cursive;
+            font-size: 48px;
+            color: #ff6b6b;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+        }
+        .countdown {
+            font-size: 24px;
+            font-weight: bold;
+            color: #4ecdc4;
+        }
+    </style>
+</head>
+<body>
+    <h1>¡Sorpresa, mi amor!</h1>
+    <p>Tengo algo muy especial que decirte. Hemos compartido algunos momentos inolvidables juntos y quiero seguir creando recuerdos a tu lado.</p>
+    <img src="https://i.postimg.cc/3xZmVx64/couple-beach-selfie.jpg" alt="Foto de la pareja en la playa">
+    <img src="https://i.postimg.cc/T1Lsmcwf/couple-drawing.jpg" alt="Dibujo de la pareja">
+    <p>Eres la persona que más feliz me hace y no puedo imaginar mi vida sin ti. Por eso, quiero darte una sorpresa que sé que te encantará...</p>
+    <h2>¡Nos vamos al concierto de Marca Registrada!</h2>
+    <img src="https://i.postimg.cc/SNQH0yQG/marca-registrada-poster.jpg" alt="Póster del concierto de Marca Registrada">
+    <p>Sé cuánto te gusta su música y lo mucho que quieres verlos en vivo. Ahora podremos disfrutar de esta experiencia juntos y crear un recuerdo que atesoraremos para siempre.</p>
+    <p>Te amo, mi vida, con todo mi corazón. ¡Que comience la cuenta regresiva para el concierto!</p>
+    <p class="countdown">Faltan XX días para el concierto</p>
+</body>
+</html>
